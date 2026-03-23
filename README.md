@@ -5,5 +5,8 @@
 ------
 Seong Je Oh<sup>*†</sup>, Ju Hwan Lee<sup>*</sup>, Chae Yeon Lim<sup>*</sup>, Donghwan Lee, Myung Jin Chung, Kyungsu Kim<sup>†</sup>
 
+<br>
+<sup>*</sup> Equal contribution &nbsp;&nbsp;
+<sup>†</sup> Corresponding authors
 ------
 To be continue
