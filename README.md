@@ -1,2 +1,3 @@
 To be continue
-[overview_last.pdf](https://github.com/user-attachments/files/26171739/overview_last.pdf)
+GH-NAF: Grid-Adaptive Hash-Level–Attended Neural Attenuation Fields for Discrepancy-Aware CBCT
+<img width="2082" height="721" alt="image" src="https://github.com/user-attachments/assets/ac9f3147-c864-413f-a843-85de6fce1ee0" />
