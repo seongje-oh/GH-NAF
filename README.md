@@ -13,6 +13,9 @@
 <img width="2082" height="721" alt="image" src="https://github.com/user-attachments/assets/ac9f3147-c864-413f-a843-85de6fce1ee0" />
 
 ------
+
+<p align="center">
 ![combined_6_methods](https://github.com/user-attachments/assets/fc776d8f-5a3a-4551-aa2f-1fb0d9b8573a)
+</p>
 
 To be continue
