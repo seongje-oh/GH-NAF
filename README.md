@@ -6,6 +6,8 @@
   Seong Je Oh<sup>*†</sup>, Ju Hwan Lee<sup>*</sup>, Chae Yeon Lim<sup>*</sup>, Donghwan Lee, Myung Jin Chung, Kyungsu Kim<sup>†</sup>
   <br>
   <sup>*</sup>Equal contribution &nbsp;&nbsp; <sup>†</sup>Corresponding authors
+  <br>
+  <sup>1</sup>Seoul National University &nbsp;&nbsp; <sup>2</sup>Sungkyunkwan University 
 </p>
 
 ------
