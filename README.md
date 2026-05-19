@@ -3,7 +3,7 @@
 ------
 # GH-NAF: Grid-Adaptive Hash-Level–Attended Neural Attenuation Fields for Discrepancy-Aware CBCT (CVPR 2026)
 <p align="center">
-  Seong Je Oh<sup>*†</sup>, Ju Hwan Lee<sup>*</sup>, Chae Yeon Lim<sup>*</sup>, Donghwan Lee, Myung Jin Chung, Kyungsu Kim<sup>†</sup>
+  Seong Je Oh<sup>1*†</sup>, Ju Hwan Lee<sup>1*</sup>, Chae Yeon Lim<sup>1*</sup>, Donghwan Lee<sup>1</sup>, Myung Jin Chung<sup>2</sup>, Kyungsu Kim<sup>1†</sup>
   <br>
   <sup>*</sup>Equal contribution &nbsp;&nbsp; <sup>†</sup>Corresponding authors
   <br>
