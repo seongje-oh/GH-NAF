@@ -16,10 +16,11 @@
 
 ------
 
-<p align="center">
+<div align="center">
   
   ![combined_6_methods](https://github.com/user-attachments/assets/fc776d8f-5a3a-4551-aa2f-1fb0d9b8573a)
+</div>
 
-</p>
+
 
 To be continue
