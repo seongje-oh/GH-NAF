@@ -5,7 +5,7 @@
 
 <p dir="auto">
 <a href="https://limchaeyeon1003.github.io/GH_NAF_CVPR/" rel="nofollow"><img src="https://camo.githubusercontent.com/b7784fdc9b4f7a76f905d30eccf39f1705e7cb69c3359f2ffae621f72c439742/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f6a6563742d506167652d676f6c643f7374796c653d666f722d7468652d6261646765" alt="Project Page" data-canonical-src="https://img.shields.io/badge/Project-Page-gold?style=for-the-badge" style="max-width: 100%;"></a>
-<a href="https://cvpr.thecvf.com/virtual/2026/poster/40015" rel="nofollow"><img src="https://camo.githubusercontent.com/b7784fdc9b4f7a76f905d30eccf39f1705e7cb69c3359f2ffae621f72c439742/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f6a6563742d506167652d676f6c643f7374796c653d666f722d7468652d6261646765" alt="Project Page" data-canonical-src="https://img.shields.io/badge/CVPR2026-Link-red?style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://cvpr.thecvf.com/virtual/2026/poster/40015" rel="nofollow"><img src="https://camo.githubusercontent.com/b7784fdc9b4f7a76f905d30eccf39f1705e7cb69c3359f2ffae621f72c439742/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f6a6563742d506167652d676f6c643f7374796c653d666f722d7468652d6261646765" alt="CVPR2026 Link" data-canonical-src="https://img.shields.io/badge/CVPR2026-Link-red?style=for-the-badge" style="max-width: 100%;"></a>
 </p>
 
 <p align="center">
