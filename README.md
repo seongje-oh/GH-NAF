@@ -26,6 +26,16 @@
   ![combined_6_methods](https://github.com/user-attachments/assets/fc776d8f-5a3a-4551-aa2f-1fb0d9b8573a)
 </div>
 
+## Citation
 
-
+```
+@InProceedings{Oh_2026_CVPR,
+    author    = {Oh, Seong Je and Lee, Ju Hwan and Lim, Chae Yeon and Lee, Donghwan and Chung, Myung Jin and Kim, Kyungsu},
+    title     = {{GH-NAF}: Grid-Adaptive Hash-Level-Attended Neural Attenuation Fields for Discrepancy-Aware CBCT},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {41762-41772}
+}
+```
 To be continue
